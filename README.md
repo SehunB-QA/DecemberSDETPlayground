@@ -13,7 +13,6 @@ Try to add your name here using your forked and cloned version of this repo (pus
 
 ![Pure Chaos](https://imgur.com/TxHp9NU.png)
 
-<<<<<<< HEAD
 - Arsalan Asad
 - completed
 - Nick Johnson
@@ -21,12 +20,9 @@ Try to add your name here using your forked and cloned version of this repo (pus
 - etc.
 Cameron Guthrie
 - Cameron Guthrie
-=======
->>>>>>> upstream/main
 Would you like to play a game? 
 
 - Arsalan Asad
-<<<<<<< HEAD
 - completed
 
 >>>>>>> refs/remotes/upstream/main
