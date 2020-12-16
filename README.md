@@ -10,7 +10,6 @@ Try to add your name here using your forked and cloned version of this repo (pus
 - Emmy Kidd
 - etc.
 - Cameron Guthrie
-=======
 [![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")
 <<<<<<< HEAD
 - Arsalan Asad
@@ -29,6 +28,7 @@ Would you like to play a game?
 
 Would you like to play a game? 
 
+- ![Tom Scott](https://www.youtube.com/watch?v=g_EnsU88o6M)
 - Nick Johnson
 - Cameron Guthrie
 - Arsalan Asad
