@@ -4,6 +4,10 @@
 Try to add your name here using your forked and cloned version of this repo (push directly onto `main`):
 
 [![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")]
+[![Tom Scott]([![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)]) "Tom Scott")]
+
+
+[![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")]
 [![Tom Scott]([![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)]) "Tom Scott"
 [![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")]
 [![Tom Scott]([![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)]) "Tom Scott")]
@@ -15,10 +19,22 @@ Try to add your name here using your forked and cloned version of this repo (pus
 - etc.
 - Cameron Guthrie
 [![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")
+
+- Arsalan Asad
+- completed
+- Nick Johnson
+- Emmy Kidd
+- etc.
+- Cameron Guthrie
+- Arsalan Asad
+- Nick Johnson
+- Peter Vaughan-Williams
+- Raimonds MezalWould you like to play a game
+[![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")
 [![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")
 ![Pure Chaos](https://imgur.com/TxHp9NU.png)
 
-<<<<<<< HEAD
+
 - Arsalan Asad
 - completed
 - Nick Johnson
@@ -30,9 +46,14 @@ Would you like to play a game?
 
 - Arsalan Asad
 - completed
+
+[![Tom Scott](http://img.youtube.com/vi/g_EnsU88o6M/0.jpg)](http://www.youtube.com/watch?v=g_EnsU88o6M "I'm Here, In This README")
+
+Would you like to play
 [![Tom Scott](http://img.youtube.com/vi/g_EnsU88o6M/0.jpg)](http://www.youtube.com/watch?v=g_EnsU88o6M "I'm Here, In This README")
 
 Would you like to play a game?
+
 - Nick Johnson
 - Cameron Guthrie
 - Arsalan Asad
@@ -43,5 +64,11 @@ Would you like to play a game?
 - Firstname Lastname
 - Emmy Kidd
 - Jigsaw
+
+- MYNAME
 - Emmy Kidd
+<<<<<<< HEAD
 - H2O
+=======
+
+>>>>>>> d2a2bb9206ce0008d374dcf17521de0f9b100bc4
