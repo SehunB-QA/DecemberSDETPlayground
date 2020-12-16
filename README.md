@@ -9,7 +9,6 @@ Try to add your name here using your forked and cloned version of this repo (pus
 - Emmy Kidd
 - etc.
 - Cameron Guthrie
-
 - Arsalan Asad
 - Nick Johnson
 - Peter Vaughan-Williams
@@ -19,12 +18,19 @@ Would you like to play a game?
 - Arsalan Asad
 
 
+=======
+
+![Pure Chaos](https://imgur.com/TxHp9NU.png)
+
+Would you like to play a game? 
+
 - Nick Johnson
 - Cameron Guthrie
-- Raimonds Mezals
 - Arsalan Asad
+- Cameron Guthrie
+- Raimonds Mezals
 - Murat Ozturk
 - Hugh Mann
 - Firstname Lastname
+- Emmy Kidd
 - Jigsaw
-
