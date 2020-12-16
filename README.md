@@ -4,19 +4,11 @@ Try to add your name here using your forked and cloned version of this repo (pus
 
 ![Pure Chaos](https://imgur.com/TxHp9NU.png)
 
-<<<<<<< HEAD
 - Arsalan Asad
 - completed
-=======
 - Nick Johnson
-<<<<<<< HEAD
 - Henry Oliver-Edwards
-=======
-<<<<<<< HEAD
 - etc.
 Cameron Guthrie
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
 - Cameron Guthrie
->>>>>>> upstream/main
+
