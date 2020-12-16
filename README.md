@@ -1,12 +1,20 @@
 # DecemberSDETPlayground
 <<<<<<< HEAD
+<<<<<<< HEAD
 sehun
 wq
 =======
+=======
+PEPRAH PEPRAH PEPRAH PEPRAH PEPRAH
+>>>>>>> b276f1765af74d283e596a415010a83e40f47c8f
 
 -Gie Fortuna
 >>>>>>> 0e1ce915e13e95dd0401973a1426900be624291a
 Try to add your name here using your forked and cloned version of this repo (push directly onto `main`):
+
+[![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")]
+[![Tom Scott]([![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)]) "Tom Scott")]
+
 
 [![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")]
 [![Tom Scott]([![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)]) "Tom Scott"
@@ -20,13 +28,36 @@ Try to add your name here using your forked and cloned version of this repo (pus
 - etc.
 - Cameron Guthrie
 [![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")
-[![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")
-![Pure Chaos](https://imgur.com/TxHp9NU.png)
 
-<<<<<<< HEAD
 - Arsalan Asad
 - completed
 - Nick Johnson
+- Emmy Kidd
+- etc.
+- Cameron Guthrie
+- Arsalan Asad
+- Nick Johnson
+- Peter Vaughan-Williams
+- Raimonds MezalWould you like to play a game
+[![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")
+[![Tom Scott](http://i3.ytimg.com/vi/g_EnsU88o6M/hqdefault.jpgg)](https://www.youtube.com/watch?v=g_EnsU88o6M) "Tom Scott")
+![Pure Chaos](https://imgur.com/TxHp9NU.png)
+
+
+- Arsalan Asad
+- completed
+- Nick Johnson
+<<<<<<< HEAD
+HEAD
+- Cameron Guthrie
+>>>>>>> upstream/main
+
+
+
+
+
+Peprah Amoh-Donkor
+=======
 - Henry Oliver-Edwards
 - etc.
 Cameron Guthrie
@@ -35,9 +66,14 @@ Would you like to play a game?
 
 - Arsalan Asad
 - completed
+
+[![Tom Scott](http://img.youtube.com/vi/g_EnsU88o6M/0.jpg)](http://www.youtube.com/watch?v=g_EnsU88o6M "I'm Here, In This README")
+
+Would you like to play
 [![Tom Scott](http://img.youtube.com/vi/g_EnsU88o6M/0.jpg)](http://www.youtube.com/watch?v=g_EnsU88o6M "I'm Here, In This README")
 
 Would you like to play a game?
+
 - Nick Johnson
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -67,6 +103,7 @@ Hi from Sehun :)
 - Emmy Kidd
 - Jigsaw
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/main
 Hi from Sehun :)
 Hi from Sehun :)
@@ -76,3 +113,14 @@ Hi from Sehun :)
 Hi from Sehun :)
 Hi from Sehun :)
 Hi from Sehun :)
+=======
+
+- MYNAME
+- Emmy Kidd
+<<<<<<< HEAD
+- H2O
+=======
+
+>>>>>>> d2a2bb9206ce0008d374dcf17521de0f9b100bc4
+>>>>>>> 7caabafd33d3cf9a41fe92dbdf1938ab3e4c56ec
+>>>>>>> b276f1765af74d283e596a415010a83e40f47c8f
